@@ -1,0 +1,498 @@
+{
+    "RPT": {
+        "ScanTime": "0.13 sec.",
+        "ScanFile": "20190526_giaiphaptoandiencholanda_93bff67b5f259f377774_20200427060741_scan.json",
+        "Warnings": 1,
+        "Success": 5
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": false,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true,
+            "ALL": "Warn"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/ai1wm-backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/backups-dup-pro",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/backupwordpress",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/cache",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/content\/cache",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/contents\/cache",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/infinitewp\/backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/managewp\/backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/old-cache",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/updraft",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/snapshots",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/sucuri",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/wfcache",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/wishlist-backup",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/.htaccess",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/web.config",
+            "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-snapshots",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/backups-dup-pro",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/ai1wm-backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/backupwordpress",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/content\/cache",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/contents\/cache",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/infinitewp\/backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/managewp\/backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/old-cache",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/updraft",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/wishlist-backup",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/wfcache",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/cache",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/aiowps_backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/mainwp\/backup",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/snapshots",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/sucuri",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wp-clone",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wp_all_backup",
+                    "\/var\/www\/vhosts\/bshungdalieu.com\/public_html\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcStatus": "Good",
+            "showCreateProc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good"
+        },
+        "Size": "17.17MB",
+        "Rows": "17,110",
+        "TableCount": 54,
+        "TableList": {
+            "wpgn_apmm_custom_theme": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_booking": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_bookingdates": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_cf7_vdata": {
+                "Case": 0,
+                "Rows": "10",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_cf7_vdata_entry": {
+                "Case": 0,
+                "Rows": "61",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_commentmeta": {
+                "Case": 0,
+                "Rows": "9",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_comments": {
+                "Case": 0,
+                "Rows": "1,889",
+                "Size": "720KB",
+                "USize": 737280
+            },
+            "wpgn_duplicator_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "10.37KB",
+                "USize": 10620
+            },
+            "wpgn_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_options": {
+                "Case": 0,
+                "Rows": "840",
+                "Size": "2.56MB",
+                "USize": 2686976
+            },
+            "wpgn_postmeta": {
+                "Case": 0,
+                "Rows": "7,169",
+                "Size": "3.23MB",
+                "USize": 3391488
+            },
+            "wpgn_posts": {
+                "Case": 0,
+                "Rows": "2,097",
+                "Size": "7.94MB",
+                "USize": 8323072
+            },
+            "wpgn_revslider_css": {
+                "Case": 0,
+                "Rows": "113",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wpgn_revslider_layer_animations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_revslider_navigations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_revslider_sliders": {
+                "Case": 0,
+                "Rows": "6",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wpgn_revslider_slides": {
+                "Case": 0,
+                "Rows": "20",
+                "Size": "480KB",
+                "USize": 491520
+            },
+            "wpgn_revslider_static_slides": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_social_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_term_relationships": {
+                "Case": 0,
+                "Rows": "1,122",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wpgn_term_taxonomy": {
+                "Case": 0,
+                "Rows": "138",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_termmeta": {
+                "Case": 0,
+                "Rows": "49",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_terms": {
+                "Case": 0,
+                "Rows": "138",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_usermeta": {
+                "Case": 0,
+                "Rows": "336",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wpgn_users": {
+                "Case": 0,
+                "Rows": "8",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpgn_wc_admin_note_actions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_wc_admin_notes": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_wc_customer_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_wc_order_coupon_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_wc_order_product_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgn_wc_order_stats": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpgn_wc_order_tax_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "58",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wpgn_wc_tax_rate_classes": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgn_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgn_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgn_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgn_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "141",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgn_yoast_seo_meta": {
+                "Case": 0,
+                "Rows": "2,887",
+                "Size": "144KB",
+                "USize": 147456
+            }
+        },
+        "RawSize": 18000252
+    },
+    "LL": {
+        "TotalSize": "17.17MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}

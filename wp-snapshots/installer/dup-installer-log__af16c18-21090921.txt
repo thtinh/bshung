@@ -1,0 +1,264 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:27:53
+* VERSION: 1.3.14
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO_ CURRENT SERVER                                | ORIGINAL SERVER
+PHP VERSION__:7.2.11                                        | 7.0.33
+OS___________:Linux                                         | Linux
+CREATED______:2019-06-21 09:09:21
+WP VERSION___:5.2.2
+DUP VERSION__:1.3.14
+DB___________:10.0.36
+DB TABLES____:53
+DB ROWS______:11,609
+DB FILE SIZE_:15.28MB
+********************************************************************************
+PHP:		7.0.33 | SAPI: litespeed
+PHP MEMORY:	"4294967296" | SUHOSIN: "disabled"
+SERVER:		"Apache"
+DOC ROOT:	"/home/bshungda/public_html"
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	"http://bshungdalieu.com/dup-installer/main.installer.php"
+SAFE MODE :	"0"
+CONFIG MODE :	"NEW"
+--------------------------------------
+PRE-EXTRACT-CHECKS
+--------------------------------------
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	20190526_giaiphaptoandiencholanda_af16c187b2fcb0281429_20190621090921_archive.zip
+SIZE:	346.97KB
+
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 10:27:55 - RUNTIME: 2.3848 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 10:28:39
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.26 -- Build Server: 10.0.36
+FILE SIZE:	dup-database__af16c18-21090921.sql (7.65MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NOT_SET
+NEW SQL FILE:	[/home/bshungda/public_html/dup-installer/dup-installer-data__af16c18-21090921.sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [5.7.26] is less than the build version [10.0.36].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	45
+RENAMED TABLES:	0
+QUERIES RAN:	473
+
+wpgn_apmm_custom_theme: (1)
+wpgn_booking: (1)
+wpgn_bookingdates: (3)
+wpgn_cf7_vdata: (1)
+wpgn_cf7_vdata_entry: (6)
+wpgn_commentmeta: (60)
+wpgn_comments: (818)
+wpgn_duplicator_packages: (0)
+wpgn_duplicator_pro_entities: (5)
+wpgn_duplicator_pro_packages: (1)
+wpgn_links: (0)
+wpgn_options: (660)
+wpgn_postmeta: (6744)
+wpgn_posts: (1350)
+wpgn_revslider_css: (113)
+wpgn_revslider_layer_animations: (0)
+wpgn_revslider_navigations: (1)
+wpgn_revslider_sliders: (6)
+wpgn_revslider_slides: (25)
+wpgn_revslider_static_slides: (3)
+wpgn_social_users: (0)
+wpgn_term_relationships: (712)
+wpgn_term_taxonomy: (138)
+wpgn_termmeta: (49)
+wpgn_terms: (138)
+wpgn_usermeta: (283)
+wpgn_users: (7)
+wpgn_wc_admin_note_actions: (4)
+wpgn_wc_admin_notes: (4)
+wpgn_wc_customer_lookup: (0)
+wpgn_wc_download_log: (0)
+wpgn_wc_order_coupon_lookup: (0)
+wpgn_wc_order_product_lookup: (0)
+wpgn_wc_order_stats: (0)
+wpgn_wc_order_tax_lookup: (0)
+wpgn_wc_product_meta_lookup: (58)
+wpgn_wc_webhooks: (0)
+wpgn_woocommerce_api_keys: (0)
+wpgn_woocommerce_attribute_taxonomies: (0)
+wpgn_woocommerce_downloadable_product_permissions: (0)
+wpgn_woocommerce_log: (0)
+wpgn_woocommerce_order_itemmeta: (0)
+wpgn_woocommerce_order_items: (0)
+wpgn_woocommerce_payment_tokenmeta: (0)
+wpgn_woocommerce_payment_tokens: (0)
+wpgn_woocommerce_sessions: (1)
+wpgn_woocommerce_shipping_zone_locations: (1)
+wpgn_woocommerce_shipping_zone_methods: (2)
+wpgn_woocommerce_shipping_zones: (1)
+wpgn_woocommerce_tax_rate_locations: (0)
+wpgn_woocommerce_tax_rates: (0)
+wpgn_yoast_seo_links: (126)
+wpgn_yoast_seo_meta: (315)
+Removed '60' cache/transient rows
+
+INSERT DATA RUNTIME: 4.4511 sec.
+STEP-2 COMPLETE @ 10:28:44 - RUNTIME: 4.4716 sec.
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP-3 START @ 10:36:01
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wpgn_apmm_custom_theme~ (1)
+wpgn_booking~ (1)
+wpgn_bookingdates~ (3)
+wpgn_cf7_vdata~ (1)
+wpgn_cf7_vdata_entry~ (6)
+wpgn_commentmeta~ (60)
+wpgn_comments~ (818)
+wpgn_duplicator_packages^ (0)
+wpgn_duplicator_pro_entities~ (5)
+wpgn_duplicator_pro_packages~ (1)
+wpgn_links^ (0)
+wpgn_options~ (660)
+wpgn_postmeta~ (6744)
+wpgn_posts~ (1350)
+wpgn_revslider_css~ (113)
+wpgn_revslider_layer_animations^ (0)
+wpgn_revslider_navigations~ (1)
+wpgn_revslider_sliders~ (6)
+wpgn_revslider_slides~ (25)
+wpgn_revslider_static_slides~ (3)
+wpgn_social_users^ (0)
+wpgn_term_relationships~ (712)
+wpgn_term_taxonomy~ (138)
+wpgn_termmeta~ (49)
+wpgn_terms~ (138)
+wpgn_usermeta~ (283)
+wpgn_users~ (7)
+wpgn_wc_admin_note_actions~ (4)
+wpgn_wc_admin_notes~ (4)
+wpgn_wc_customer_lookup^ (0)
+wpgn_wc_download_log^ (0)
+wpgn_wc_order_coupon_lookup^ (0)
+wpgn_wc_order_product_lookup^ (0)
+wpgn_wc_order_stats^ (0)
+wpgn_wc_order_tax_lookup^ (0)
+wpgn_wc_product_meta_lookup~ (58)
+wpgn_wc_webhooks^ (0)
+wpgn_woocommerce_api_keys^ (0)
+wpgn_woocommerce_attribute_taxonomies^ (0)
+wpgn_woocommerce_downloadable_product_permissions^ (0)
+wpgn_woocommerce_log^ (0)
+wpgn_woocommerce_order_itemmeta^ (0)
+wpgn_woocommerce_order_items^ (0)
+wpgn_woocommerce_payment_tokenmeta^ (0)
+wpgn_woocommerce_payment_tokens^ (0)
+wpgn_woocommerce_sessions~ (1)
+wpgn_woocommerce_shipping_zone_locations~ (1)
+wpgn_woocommerce_shipping_zone_methods~ (2)
+wpgn_woocommerce_shipping_zones~ (1)
+wpgn_woocommerce_tax_rate_locations^ (0)
+wpgn_woocommerce_tax_rates^ (0)
+wpgn_yoast_seo_links~ (126)
+wpgn_yoast_seo_meta~ (315)
+--------------------------------------
+Search1:	'/home/spa.anhduong.us/public_html' 
+Change1:	'/home/bshungda/public_html' 
+Search2:	'\/home\/spa.anhduong.us\/public_html' 
+Change2:	'\/home\/bshungda\/public_html' 
+Search3:	'%2Fhome%2Fspa.anhduong.us%2Fpublic_html%2F' 
+Change3:	'%2Fhome%2Fbshungda%2Fpublic_html%2F' 
+Search4:	'\home\spa.anhduong.us\public_html' 
+Change4:	'/home/bshungda/public_html' 
+Search5:	'\\home\\spa.anhduong.us\\public_html' 
+Change5:	'\/home\/bshungda\/public_html' 
+Search6:	'%5Chome%5Cspa.anhduong.us%5Cpublic_html' 
+Change6:	'%2Fhome%2Fbshungda%2Fpublic_html' 
+Search7:	'//spa.anhduong.us' 
+Change7:	'//bshungdalieu.com' 
+Search8:	'\/\/spa.anhduong.us' 
+Change8:	'\/\/bshungdalieu.com' 
+Search9:	'%2F%2Fspa.anhduong.us' 
+Change9:	'%2F%2Fbshungdalieu.com' 
+Search10:	'https://bshungdalieu.com' 
+Change10:	'http://bshungdalieu.com' 
+Search11:	'https:\/\/bshungdalieu.com' 
+Change11:	'http:\/\/bshungdalieu.com' 
+Search12:	'https%3A%2F%2Fbshungdalieu.com' 
+Change12:	'http%3A%2F%2Fbshungdalieu.com' 
+SCANNED:	Tables:53 	|	 Rows:11637 	|	 Cells:81559 
+UPDATED:	Tables:4 	|	 Rows:1546 	|	 Cells:1810 
+ERRORS:		0 
+RUNTIME:	3.024800 sec
+
+NEW WP-ADMIN USER:
+[PHP ERR][NOTICE] MSG:Undefined variable: newuser_test2 [CODE:8|FILE:/home/bshungda/public_html/dup-installer/ctrls/ctrl.s3.php|LINE:289]
+- New username 'drhung512' was created successfully.
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/home/bshungda/public_html/wp-config.php'
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+- PASS: Existing Microsoft IIS 'web.config.orig' was removed
+
+====================================
+NOTICES
+====================================
+
+WP-CONFIG NOTICE: The wp-config.php has following values set [WP_SITEURL, WP_HOME].  
+Please validate these values are correct by opening the file and checking the values.
+See the codex link for more details: https://codex.wordpress.org/Editing_wp-config.php
+FINAL REPORT NOTICES
+
+STEP-3 COMPLETE @ 10:36:05 - RUNTIME: 3.1485 sec. 
+
+
