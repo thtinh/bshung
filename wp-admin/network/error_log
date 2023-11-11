@@ -1,0 +1,1 @@
+[23-Oct-2019 15:54:40 UTC] PHP Warning:  Use of undefined constant ‘DISALLOW_FILE_EDIT’ - assumed '‘DISALLOW_FILE_EDIT’' (this will throw an Error in a future version of PHP) in /home/bshungda/public_html/wp-config.php on line 5
